@@ -26,8 +26,7 @@ Try out the website : [REACT SQL Editor](https://react-sql-editor-atlan.vercel.a
 
 
 ## ⏱ Page Load Time
-As per GTmetrix Grade.
-Page Load time of this website in desktop is in the range of 0.4 s - 0.7s.
+As per GTmetrix Grade page Load time of this website in desktop is in the range of 0.4 s - 0.7s.
 ![Screenshot 2023-10-05 122608](https://github.com/Gaurav4code/React-SQL-Editor/assets/85581658/575740dd-6470-42da-b29c-7b5ac465d62c)
 ![Screenshot 2023-10-05 151033](https://github.com/Gaurav4code/React-SQL-Editor/assets/85581658/75954c3b-3597-4862-bc43-503377f89dec)
 

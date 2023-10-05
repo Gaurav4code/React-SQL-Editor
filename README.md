@@ -1,3 +1,57 @@
+#  REACT SQL Editor
+
+## 📝 Description
+Create, design and implement a web-based application capable of running SQL queries and displaying the results of said query. The application must include a space which accepts SQL queries in the form of user inputs, then runs the given query, and displays the result within the application..
+
+## 👩‍💻 Live Demo
+Try out the website : [REACT SQL Editor](https://react-sql-editor-atlan.vercel.app/)
+
+## 👨‍🔧 Tech Stack
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+## ⚙️ Dependencies
+
+- **_react-ace_**
+- **_react-csv_**
+- **_react-hot-toast_**
+
+## 👨‍💻 Features
+:white_check_mark: Users have the ability to fetch data using any of the predefined SQL queries available.\
+:white_check_mark: Users can explore all the table columns.\
+:white_check_mark: Users can examine all the table values by clicking on the corresponding table names.\
+:white_check_mark: Users can effortlessly download the data in CSV format with a single click.\
+:white_check_mark: Users can view the query runtime presented in milliseconds (ms).\
+
+
+## ⏱ Page Load Time
+As per GTmetrix Grade.
+Page Load time of this website in desktop is in the range of 0.4 s - 0.7s.
+![Screenshot 2023-10-05 122608](https://github.com/Gaurav4code/React-SQL-Editor/assets/85581658/575740dd-6470-42da-b29c-7b5ac465d62c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
